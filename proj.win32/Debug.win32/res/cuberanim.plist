@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>running</key>
+		<dict>
+			<key>delay</key>
+			<real>0.05</real>
+			<key>frames</key>
+			<array>
+				<string>cuber01.png</string>
+				<string>cuber02.png</string>
+				<string>cuber03.png</string>
+				<string>cuber04.png</string>
+				<string>cuber05.png</string>
+				<string>cuber06.png</string>
+				<string>cuber07.png</string>
+				<string>cuber08.png</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
